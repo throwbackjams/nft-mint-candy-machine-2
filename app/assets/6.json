@@ -1,0 +1,19 @@
+{
+    "name": "Echo Chamber #6",
+    "symbol": "ECHO",
+    "image": "6.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "6.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "BuSmTfRJFB7ewseydjbC8DaRYYuhPBPLGyeK7cxNLx1k",
+          "share": 100
+        }
+      ]
+    }
+  }
